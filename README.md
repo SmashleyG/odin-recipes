@@ -1,4 +1,4 @@
-# The Odin Project - Basic Recipe website
+# <a href="https://www.theodinproject.com">The Odin Project</a> - Basic Recipe website
 
 This project is to design a basic recipe website that will have a content page that links to several recipe webpages.
 
